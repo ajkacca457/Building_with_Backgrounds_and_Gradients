@@ -15,7 +15,7 @@ CSS
 Atom editor, Visual code
 
 <h2>Live Demo</h2>
-https://nytclone.netlify.app/
+([Live Demo Link])
 
 
 <h2>Getting Started</h2>
