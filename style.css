@@ -57,7 +57,6 @@ h3 {
   position: relative;
   cursor: pointer;
   padding: 5% 0 10% 0;
-
 }
 
 h1 {
@@ -123,7 +122,7 @@ footer {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  margin: auto;
+  margin: auto auto 20px auto;
   height: auto;
   width: 80%;
 }
