@@ -1,6 +1,6 @@
 <h1>#Building with Backgrounds and Gradients</h1>
 
-This project is a clone of The New York Times newspaper interface. The aim of this project was to recreate The New York Times design using html,css and css positioning technologies.
+This project is a clone of Apple website interface. The aim of this project was to recreate Apple design using html,css and css positioning technologies.
 
 <img src="images/project2.PNG" alt="projectimg">
 
