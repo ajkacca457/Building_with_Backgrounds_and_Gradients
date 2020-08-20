@@ -40,7 +40,7 @@ Text editor,Github profile and Git.
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/khalilhamdi/)
 
 
-🤝 <h2>Contributing</h2>
+<h2>🤝Contributing</h2>
 
 Contributions, issues and feature requests are welcome!
 
