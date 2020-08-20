@@ -22,12 +22,9 @@ h3 {
 .nav {
   width: 70%;
   margin: auto;
-  background-image: linear-gradient(
-    to top,
-    rgb(153, 152, 152) 0%,
-    #4b4949 51%,
-    rgb(167, 164, 164) 100%
-  );
+  background-image: -webkit-linear-gradient(bottom, rgb(153, 152, 152) 0%, #4b4949 51%, rgb(167, 164, 164) 100%);
+  background-image: -o-linear-gradient(bottom, rgb(153, 152, 152) 0%, #4b4949 51%, rgb(167, 164, 164) 100%);
+  background-image: linear-gradient(to top, rgb(153, 152, 152) 0%, #4b4949 51%, rgb(167, 164, 164) 100%);
   padding: 10px;
   border-radius: 5px;
   margin-bottom: 5%;
@@ -83,12 +80,13 @@ h1 {
 }
 
 input {
-  background-image: linear-gradient(
-    to top,
-    rgb(153, 152, 152) 0%,
-    #4b4949 51%,
-    rgb(167, 164, 164) 100%
-  );
+  background-image:
+    linear-gradient(
+      to top,
+      rgb(153, 152, 152) 0%,
+      #4b4949 51%,
+      rgb(167, 164, 164) 100%
+    );
   border-radius: 5px;
   height: 25px;
 }
