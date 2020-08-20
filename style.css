@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 ul,
@@ -43,7 +44,7 @@ h3 {
 
 .border-right {
   border-right: 1px solid silver;
-  padding-right: 15px;
+  padding-right: 25px;
 }
 
 .header {
@@ -56,6 +57,7 @@ h3 {
   position: relative;
   cursor: pointer;
   padding: 5% 0 10% 0;
+
 }
 
 h1 {
@@ -109,10 +111,12 @@ input {
   flex-wrap: nowrap;
   gap: 3px;
   margin: 3px 0 20px 0;
+  overflow: hidden;
 }
 
 .imgcont img {
   flex: 1;
+  width: 300px;
 }
 
 footer {
@@ -121,7 +125,7 @@ footer {
   flex-wrap: wrap;
   margin: auto;
   height: auto;
-  width: 70%;
+  width: 80%;
 }
 
 .footer-item {
@@ -151,4 +155,8 @@ footer {
 #border-item1,
 #border-item2 {
   border-right: none;
+}
+
+.center {
+  text-align: center;
 }
