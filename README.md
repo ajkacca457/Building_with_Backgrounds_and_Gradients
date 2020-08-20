@@ -15,9 +15,7 @@ CSS
 Atom editor, Visual code
 
 <h2>Live Demo</h2>
-[Live Demo Link](https://rawcdn.githack.com/khalilhamdii/Building_with_Backgrounds_and_Gradients/af40fbd5083a852a456288f85f6880c3d36ec81b/index.html
-)
-
+[Live Demo Link](https://raw.githack.com/khalilhamdii/Building_with_Backgrounds_and_Gradients/feature-branch/index.html)
 
 <h2>Getting Started</h2>
 To get a local copy up and running follow these simple example steps.
