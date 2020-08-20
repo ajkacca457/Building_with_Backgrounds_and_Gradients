@@ -15,7 +15,7 @@ CSS
 Atom editor, Visual code
 
 <h2>Live Demo</h2>
-(https://rawcdn.githack.com/khalilhamdii/Building_with_Backgrounds_and_Gradients/af40fbd5083a852a456288f85f6880c3d36ec81b/index.html
+[Live Demo Link](https://rawcdn.githack.com/khalilhamdii/Building_with_Backgrounds_and_Gradients/af40fbd5083a852a456288f85f6880c3d36ec81b/index.html
 )
 
 
@@ -29,17 +29,17 @@ Text editor,Github profile and Git.
 
 👤 Author1
 
-Github: @ajkacca457
+- Github: [@ajkacca457](https://github.com/ajkacca457)
 
-Twitter: @ajkacca
+- Twitter: [@ajkacca](https://twiter.com/ajkacca)
 
-Linkedin: https://www.linkedin.com/in/avijit-karmaker-8738a54a/
+- Linkedin: [LinkedIn](https://www.linkedin.com/in/avijit-karmaker-8738a54a/)
 
 👤 Author2
 
-Github: @khalilhamdii
+- Github: [@khalilhamdii](https://github.com/khalilhamdii)
 
-Linkedin: https://www.linkedin.com/in/khalilhamdi/
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/khalilhamdi/)
 
 
 🤝 Contributing
