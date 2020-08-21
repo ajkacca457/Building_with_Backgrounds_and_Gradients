@@ -20,16 +20,56 @@ h3 {
 
 .nav {
   width: 70%;
+  height: 42px;
   margin: auto;
-  background-image: -webkit-linear-gradient(bottom, rgb(153, 152, 152) 0%, #4b4949 51%, rgb(167, 164, 164) 100%);
-  background-image: -o-linear-gradient(bottom, rgb(153, 152, 152) 0%, #4b4949 51%, rgb(167, 164, 164) 100%);
-  background-image: linear-gradient(to top, rgb(153, 152, 152) 0%, #4b4949 51%, rgb(167, 164, 164) 100%);
+  background-image:
+    -webkit-linear-gradient(
+      bottom,
+      rgb(153, 152, 152) 0%,
+      #4b4949 51%,
+      rgb(167, 164, 164) 100%
+    );
+  background-image:
+    -o-linear-gradient(
+      bottom,
+      rgb(153, 152, 152) 0%,
+      #4b4949 51%,
+      rgb(167, 164, 164) 100%
+    );
+  background-image:
+    linear-gradient(
+      to top,
+      rgb(153, 152, 152) 0%,
+      #4b4949 51%,
+      rgb(167, 164, 164) 100%
+    );
   border-radius: 5px;
   margin-bottom: 5%;
   display: flex;
-  justify-content: space-around;
   font-size: 105%;
   color: white;
+}
+
+.nav-items {
+  width: 11%;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hover-nav:hover {
+  background: #989898;
+  background: linear-gradient(90deg, #989898 0%, #4d4d4d 40%, #5d5d5d 80%);
+  background:
+    -webkit-linear-gradient(
+      90deg,
+      #989898 0%,
+      #4d4d4d 40%,
+      #5d5d5d 80%
+    );
+  background: -moz-linear-gradient(90deg, #989898 0%, #4d4d4d 40%, #5d5d5d 80%);
 }
 
 nav a {
@@ -64,10 +104,10 @@ nav a:hover {
   text-decoration: underline;
 }
 
-.mitem {
+/* .mitem {
   height: 30px;
   padding-top: 10px;
-}
+} */
 
 input {
   background-image:
@@ -79,24 +119,22 @@ input {
     );
   border-radius: 5px;
   height: 25px;
+  width: 90%;
 }
 
 #btncont {
   position: relative;
-  height: 30px;
-  padding-top: 10px;
 }
 
 #search {
   position: absolute;
   z-index: 100;
   top: 15px;
-  left: 10px;
+  left: 15px;
 }
 
 .border-right {
-  border-right: 1px solid silver;
-  padding-right: 25px;
+  border-right: 1px solid rgb(95, 95, 95);
 }
 
 .header {
